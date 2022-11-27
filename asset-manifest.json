@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/me/static/css/main.f0468691.css",
-    "main.js": "/me/static/js/main.206b20ba.js",
+    "main.css": "/me/static/css/main.c2cab247.css",
+    "main.js": "/me/static/js/main.3fbe1f1c.js",
+    "static/media/sriram.jpg": "/me/static/media/sriram.545509b2239eea6e9f74.jpg",
     "index.html": "/me/index.html",
-    "main.f0468691.css.map": "/me/static/css/main.f0468691.css.map",
-    "main.206b20ba.js.map": "/me/static/js/main.206b20ba.js.map"
+    "main.c2cab247.css.map": "/me/static/css/main.c2cab247.css.map",
+    "main.3fbe1f1c.js.map": "/me/static/js/main.3fbe1f1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0468691.css",
-    "static/js/main.206b20ba.js"
+    "static/css/main.c2cab247.css",
+    "static/js/main.3fbe1f1c.js"
   ]
 }
